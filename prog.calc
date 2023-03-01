@@ -1,0 +1,5 @@
+read a
+read b
+reac c
+result := (a + b) * c
+write result, result * .5
