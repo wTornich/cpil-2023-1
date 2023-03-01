@@ -31,7 +31,11 @@ const analye = source => {
 
         switch(state) {
             case 0:
-                if (char === 'r') state 
+                if (char === 'r') {
+                    state = 1;
+                    break
+                } 
+                
         }
     }
 }
